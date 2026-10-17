@@ -7,3 +7,4 @@
 ## Useful Links
 - [Course website]
 - [Library resources]
+Add study group tip
